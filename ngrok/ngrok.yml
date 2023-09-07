@@ -1,0 +1,6 @@
+version: "2"
+authtoken: 28rbjVxgemArAngK0cWRk28guI6_6FiWUeg2NdrcLM3kf1rUG
+tunnels:
+  nekaserver:
+    addr: 25565
+    proto: tcp

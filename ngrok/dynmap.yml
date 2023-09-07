@@ -1,0 +1,6 @@
+version: "2"
+authtoken: 2DK9NPykw5PMaSEx2y6Ta3iliTu_3FzTn26d9G6XBKsVkU78H
+tunnels:
+  dynmap:
+    addr: 8123
+    proto: http
