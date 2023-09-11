@@ -41,6 +41,23 @@ sleep:
     skip-night-sound: ui.toast.challenge_complete
     skip-storm-sound: entity.wither.spawn
     reset-time-since-rest: true
+    dynamic-animation-speed: false
+    disable-daylight-cycle-gamerule: true
+    non-sleeping-sound: false
+    allow-sleep-cmd: true
+    non-sleeping-clock-animation: false
+    non-sleeping-title: false
+    insomnia-chance: 0.0
+    phantom-reset-audience: all
+    exempt-below-y: -1
+    gsit-hook: false
+    insomnia-milk: false
+    skip-storm: true
+    gsit-sleep: true
+    exempt-flying: false
+    longer-night-duration: 0
+    clock-animation: true
+    allow-kick: false
 
 # specify the time which the world will be set after reset
 time-after-reset: 0
@@ -55,5 +72,5 @@ time:
 messages:
   cooldown: 10
 
-#debug mode
+# debug mode
 debug-mode: false
