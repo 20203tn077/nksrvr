@@ -1,18 +1,21 @@
-[00:23:41] [Server thread/INFO]: Stopping server
-[00:23:41] [Server thread/INFO]: [dynmap] Disabling dynmap v3.6-899
-[00:23:41] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[00:23:41] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[00:23:42] [Server thread/INFO]: [dynmap] Disabled
-[00:23:42] [Server thread/INFO]: [UltraColor] Disabling UltraColor v1.6.7
-[00:23:42] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.3.0
-[00:23:42] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.24.7
-[00:23:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.12
-[00:23:42] [Server thread/INFO]: Saving players
-[00:23:42] [Server thread/INFO]: Saving worlds
-[00:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Nekaserver]'/minecraft:overworld
-[00:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Nekaserver_nether]'/minecraft:the_nether
-[00:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Nekaserver_the_end]'/minecraft:the_end
-[00:23:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (Nekaserver): All chunks are saved
-[00:23:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:23:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:23:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:27:10] [Server thread/INFO]: Nekashii lost connection: Disconnected
+[00:27:10] [Server thread/INFO]: Nekashii left the game
+[00:27:16] [Server thread/INFO]: Stopping server
+[00:27:16] [Server thread/INFO]: [dynmap] Disabling dynmap v3.6-899
+[00:27:16] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[00:27:16] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[00:27:16] [Server thread/INFO]: [dynmap] Saved 23 pending tile renders in world 'Nekaserver'
+[00:27:16] [Server thread/INFO]: [dynmap] Disabled
+[00:27:16] [Server thread/INFO]: [UltraColor] Disabling UltraColor v1.6.7
+[00:27:16] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.3.0
+[00:27:16] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.24.7
+[00:27:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.12
+[00:27:16] [Server thread/INFO]: Saving players
+[00:27:16] [Server thread/INFO]: Saving worlds
+[00:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Nekaserver]'/minecraft:overworld
+[00:27:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Nekaserver_nether]'/minecraft:the_nether
+[00:27:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Nekaserver_the_end]'/minecraft:the_end
+[00:27:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (Nekaserver): All chunks are saved
+[00:27:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:27:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:27:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
